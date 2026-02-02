@@ -1,0 +1,6 @@
+Final Decision: Reject the Null Hypothesis.
+
+Statistical Significance: The P-Value (0.0000) is lower than alpha (0.05). This confirms the difference is statistically significant[cite: 13, 17].
+
+Business Recommendation: 
+The advertisement group performed better than the PSA group. I recommend scaling the ad campaign as it significantly increases conversion rates[cite: 20].
